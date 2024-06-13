@@ -25,7 +25,7 @@
     <img src="https://skillicons.dev/icons?i=javascript,java,mysql" /><br>
 </div>
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=sammorozov&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=Vaibhav-2-8&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
 
 
@@ -45,7 +45,7 @@
 </div>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>🚀 My Contributions 😐</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Vaibhav-2-8/Vaibhav-2-8/output/github-contribution-grid-snake.svg" />
   
