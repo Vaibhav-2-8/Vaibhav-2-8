@@ -41,10 +41,4 @@
   <img src="https://komarev.com/ghpvc/?username=Vaibhav-2-8&style=for-the-badge&color=orange" alt=""/>
 </div>
 
-<div align="center">
-  <h2>🚀 My Contributions 😐</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Vaibhav-2-8/Vaibhav-2-8/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
+
