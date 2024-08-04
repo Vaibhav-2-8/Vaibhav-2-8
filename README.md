@@ -22,7 +22,7 @@
     <img src="https://skillicons.dev/icons?i=javascript,java,mysql" /><br>
 </div>
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=Vaibhav-2-8&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=Vaibhav-2-2&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
 
 
@@ -32,13 +32,13 @@
 
 
 <p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Vaibhav-2-8&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav-2-8&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Vaibhav-2-2&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav-2-2&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
 </p>
  
 
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vaibhav-2-8&style=for-the-badge&color=orange" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=Vaibhav-2-2&style=for-the-badge&color=orange" alt=""/>
 </div>
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
@@ -46,7 +46,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Vaibhav-2-8/Vaibhav-2-8/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Vaibhav-2-2/Vaibhav-2-2/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
